@@ -8,7 +8,7 @@ Pre-built executable also included.
 ### Tested hardware
 * Kubler 05.2400.1122.1024 encoder
 * National Instruments 6343 card
-* Windows 7
+* Windows 7 (64-bit)
 
 ##### Encoder pinout
 Signal: | GND | +5V | A | B | Z
