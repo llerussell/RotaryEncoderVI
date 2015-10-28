@@ -1,6 +1,6 @@
 # RotaryEncoderVI
 
-LabView VI. Processes gray code input from a rotary encoder and outputs an analog voltage corresponding to rotation speed and direction.
+LabView VI. Processes gray code input from a rotary encoder and outputs an analog voltage corresponding to rotation speed and direction. External devices can be triggered based on speed or distance.
 Pre-built executable also included.
 
 ![Imgur](http://i.imgur.com/cnR4giW.png)
