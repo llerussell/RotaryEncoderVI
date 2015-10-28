@@ -1,5 +1,26 @@
 # RotaryEncoderVI
 
-LabView VI to process input from rotary encoder and output rotation speed
+LabView VI. Processes gray code input from a rotary encoder and outputs an analog voltage corresponding to rotation speed and direction.
 
-Tested with Kubler 05.2400.1122.1024 encoder connected to NI6343 card
+![Imgur](http://i.imgur.com/cnR4giW.png)
+
+### Tested hardware
+* Kubler 05.2400.1122.1024 encoder
+* National Instruments 6343 card
+
+##### Encoder pinout
+Signal: | GND | +5V | A | B | Z
+--- | --- | --- | --- | --- | ---
+Colour: | white | brown | green | grey | blue
+##### DAQ card pinout
+Signal | Pin Number (Name) 
+--- | ---
+GND | 94
++5V | 96 
+CTR0 A | 81 (PFI 8) 
+CTR0 B | 85 (PFI 10) 
+CTR0 Z | 83 (PFI 9) 
+
+### Contributers
+Some modifications by Adam Packer
+
