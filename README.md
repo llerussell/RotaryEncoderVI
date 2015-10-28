@@ -22,5 +22,5 @@ CTR0 B | 85 (PFI 10)
 CTR0 Z | 83 (PFI 9) 
 
 ### Contributers
-Some modifications by Adam Packer
+[Adam Packer](https://github.com/apacker83/PackIO)
 
